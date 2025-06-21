@@ -9,6 +9,8 @@ TagManager:
   - Undefined
   - simple
   - Monocle
+  - monocle
+  - modelObject
   layers:
   - Default
   - TransparentFX
