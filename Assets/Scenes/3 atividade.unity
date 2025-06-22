@@ -489,6 +489,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7609329573080019, guid: 1a07e1c59d1ee714a96f2b1c8f3e17a2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4948850622613527073, guid: 1a07e1c59d1ee714a96f2b1c8f3e17a2,
         type: 3}
       propertyPath: m_Name
@@ -1142,7 +1146,7 @@ MonoBehaviour:
   m_SerializedLibrary: {fileID: 11400000, guid: 4e152195e7b8fa045bd2ab5222a6c6b3,
     type: 2}
   m_MaxNumberOfMovingImages: 0
-  m_TrackedImagePrefab: {fileID: 4948850622613527073, guid: 1a07e1c59d1ee714a96f2b1c8f3e17a2,
+  m_TrackedImagePrefab: {fileID: 7609329573080019, guid: 1a07e1c59d1ee714a96f2b1c8f3e17a2,
     type: 3}
 --- !u!4 &2512387470860572925
 Transform:
