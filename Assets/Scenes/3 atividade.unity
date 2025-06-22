@@ -146,6 +146,41 @@ PrefabInstance:
       propertyPath: m_Name
       value: ButtonPopup
       objectReference: {fileID: 0}
+    - target: {fileID: 3118131162248045488, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_text
+      value: Play Audio
+      objectReference: {fileID: 0}
+    - target: {fileID: 3118131162248045488, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 46.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3118131162248045488, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_fontColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3118131162248045488, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_fontColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3118131162248045488, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_fontColor.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3118131162248045488, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 46.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3118131162248045488, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4278190080
+      objectReference: {fileID: 0}
     - target: {fileID: 3532599376157485563, guid: 398ee1c84048d68479a4ca31600e05d2,
         type: 3}
       propertyPath: m_text
@@ -181,10 +216,30 @@ PrefabInstance:
       propertyPath: m_fontSizeBase
       value: 36
       objectReference: {fileID: 0}
+    - target: {fileID: 4846490202263123579, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_Name
+      value: ' ButtonAudio '
+      objectReference: {fileID: 0}
     - target: {fileID: 5861492708049305318, guid: 398ee1c84048d68479a4ca31600e05d2,
         type: 3}
       propertyPath: m_Name
       value: ButtonRotateRight
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838268719009670937, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_text
+      value: info
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838268719009670937, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 90.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838268719009670937, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 90.31
       objectReference: {fileID: 0}
     - target: {fileID: 8430587915101059650, guid: 398ee1c84048d68479a4ca31600e05d2,
         type: 3}
